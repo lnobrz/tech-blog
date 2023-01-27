@@ -4,7 +4,7 @@
     <main>
         <div id="title-container">
             <h1>Tech Blog</h1>
-            <p>Your programming blog</p>
+            <p>Seu blog de programação</p>
         </div>
         <div id="posts-container">
             <?php foreach($posts as $post): ?>
